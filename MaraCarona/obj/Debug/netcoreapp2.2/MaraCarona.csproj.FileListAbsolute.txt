@@ -1,0 +1,16 @@
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\MaraCarona.deps.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\MaraCarona.runtimeconfig.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\MaraCarona.runtimeconfig.dev.json
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\MaraCarona.dll
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.RazorAssemblyInfo.cache
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.RazorAssemblyInfo.cs
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.AssemblyInfoInputs.cache
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.AssemblyInfo.cs
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\bin\Debug\netcoreapp2.2\MaraCarona.pdb
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.csprojAssemblyReference.cache
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.dll
+C:\Users\Luiz Faitanin\source\repos\MaraCarona\MaraCarona\obj\Debug\netcoreapp2.2\MaraCarona.pdb
